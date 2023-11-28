@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\XLA1\XLA1\bin\Debug\net8.0-windows\XLA1.exe
+C:\Users\ADMIN\source\repos\XLA1\XLA1\bin\Debug\net8.0-windows\XLA1.deps.json
+C:\Users\ADMIN\source\repos\XLA1\XLA1\bin\Debug\net8.0-windows\XLA1.runtimeconfig.json
+C:\Users\ADMIN\source\repos\XLA1\XLA1\bin\Debug\net8.0-windows\XLA1.dll
+C:\Users\ADMIN\source\repos\XLA1\XLA1\bin\Debug\net8.0-windows\XLA1.pdb
+C:\Users\ADMIN\source\repos\XLA1\XLA1\obj\Debug\net8.0-windows\XLA1.Form1.resources
+C:\Users\ADMIN\source\repos\XLA1\XLA1\obj\Debug\net8.0-windows\XLA1.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\XLA1\XLA1\obj\Debug\net8.0-windows\XLA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\XLA1\XLA1\obj\Debug\net8.0-windows\XLA1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\XLA1\XLA1\obj\Debug\net8.0-windows\XLA1.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\XLA1\XLA1\obj\Debug\net8.0-windows\XLA1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\XLA1\XLA1\obj\Debug\net8.0-windows\XLA1.dll
+C:\Users\ADMIN\source\repos\XLA1\XLA1\obj\Debug\net8.0-windows\refint\XLA1.dll
+C:\Users\ADMIN\source\repos\XLA1\XLA1\obj\Debug\net8.0-windows\XLA1.pdb
+C:\Users\ADMIN\source\repos\XLA1\XLA1\obj\Debug\net8.0-windows\XLA1.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\XLA1\XLA1\obj\Debug\net8.0-windows\ref\XLA1.dll

@@ -221,6 +221,43 @@ namespace XLA1
 			return bmResult;
 		}
 
-		
-	}
+        // xử lý ảnh thành ảnh nhị phân
+        Bitmap newbitmap;
+        public void nhiphan()
+        {
+            for (int i = 0; i < newbitmap.Width; i++)
+            {
+                for (int j = 0; j < newbitmap.Height; j++)
+                {
+                    Color x = newbitmap.GetPixel(i, j);
+                    if (x.R < 128)
+                    {
+                        newbitmap.SetPixel(i, j, Color.FromArgb(0, 0, 0));
+                    }
+                    else
+                    {
+                        newbitmap.SetPixel(i, j, Color.FromArgb(255, 255, 255));
+                    }
+                }
+               
+            }
+        }
+
+
+        // xử lý ảnh chuyển thành màu xám 
+        private void xam()
+        {
+            for (int i = 0; i < newbitmap.Width; i++)
+            {
+                for (int j = 0; j < newbitmap.Height; j++)
+                {
+                    Color x = newbitmap.GetPixel(i, j);
+                    int y = (int)((x.R * 0.2989) + (x.G * 0.5880) + (x.B * 0.1140));
+                    Color k = Color.FromArgb(y, y, y);
+                    newbitmap.SetPixel(i, j, k);
+                }
+            }
+            
+        }
+    }
 }
